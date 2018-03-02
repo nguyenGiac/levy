@@ -1,6 +1,7 @@
 # levy
 Trying to make the levy curve. or 'pythagoras' curve.
 Now reading: http://mathforum.org/mathimages/index.php/L%C3%A9vy's_C-curve
+But, I was introduced to the Levy curve in *Fractals: Endlessly Repeated Geometrical Figures* by Hans Lauwerier
 
 It turned out to be much easier than i was thinking!
 
